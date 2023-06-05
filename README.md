@@ -1,2 +1,2 @@
 # viramainClone
-Navigate to the index.html file and open it with your prefered browser!
+Navigate to the index.html file and open it with your preferred browser!
